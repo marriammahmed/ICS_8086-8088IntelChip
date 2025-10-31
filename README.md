@@ -21,3 +21,16 @@ Projects were done using <b>Assembly language</b> for the <b>Intel 8086/8088 mic
 - <b>EMU8086</b><br/>
 - <b>Xcode / VS Code</b><br/>
 - <b>Logism</b><br/>
+
+<p align="center">
+Lab work:<br/>
+<img src="https://i.imgur.com/ZU7CS7Q.png" height="80%" width="80%" alt="lab"/>
+<br/>
+<img src="https://i.imgur.com/2gLH3Jp.png" height="80%" width="80%" alt="lab"/>
+<br/>
+<img src="https://i.imgur.com/21GdNaf.png" height="80%" width="80%" alt="lab"/>
+<br/>
+<img src="https://i.imgur.com/MKN16Vx.png" height="80%" width="80%" alt="lab"/>
+<br/>
+<img src="https://i.imgur.com/OkTqtke.png" height="80%" width="80%" alt="lab"/>
+</p>
